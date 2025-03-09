@@ -81,6 +81,7 @@ VALUES ('Laptop', 'Electronics', '2024-03-01', 5, 5000.00);
 ---
 
 ## **📸 Project Screenshots**
+![Screenshot 2025-03-09 141857](https://github.com/user-attachments/assets/f3f2384c-5821-4811-aa9d-b780c3094cbf)
 
 
 ---
@@ -89,7 +90,7 @@ VALUES ('Laptop', 'Electronics', '2024-03-01', 5, 5000.00);
 
 You can view the `index.html` for the html code.
 
-link : 
+link : [View Deployment](https://kr-gagandeo1025.github.io/EcomSalesDashboard-PowerBI/)
 
 ---
 
